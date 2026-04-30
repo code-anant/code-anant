@@ -57,16 +57,16 @@ Currently at **NextZen Minds Pvt. Ltd**, leading frontend development for a heal
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnantCode101&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=code-anant&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnantCode101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnantCode101&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=code-anant&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-anant&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnantCode101&theme=tokyonight&hide_border=true" width="55%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-anant&theme=tokyonight&hide_border=true" width="55%" />
 </p>
 
 ---
@@ -74,7 +74,7 @@ Currently at **NextZen Minds Pvt. Ltd**, leading frontend development for a heal
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnantCode101&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=code-anant&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -82,9 +82,9 @@ Currently at **NextZen Minds Pvt. Ltd**, leading frontend development for a heal
 ## 🎨 Dynamic Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnantCode101/AnantCode101/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnantCode101/AnantCode101/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AnantCode101/AnantCode101/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/code-anant/code-anant/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/code-anant/code-anant/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/code-anant/code-anant/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
