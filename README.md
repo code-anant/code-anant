@@ -12,7 +12,7 @@
   <a href="mailto:anantaay150@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/code-anant/code-anant">
+  <a href="https://github.com/code-anant">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -21,7 +21,7 @@
 
 ## 🚀 About Me
 
-I'm a **Frontend Developer with 3+ years of experience** building production-grade web applications. I specialize in **React**, **TypeScript**, and **micro-frontend architecture** — with a track record of cutting load times by 30–40% through performance optimization.
+I'm a **Frontend Developer with 4+ years of experience** building production-grade web applications. I specialize in **React**, **TypeScript**, and **micro-frontend architecture** — with a track record of cutting load times by 30–40% through performance optimization.
 
 Currently at **NextZen Minds Pvt. Ltd**, leading frontend development for a health-tech platform used in real production environments. I care deeply about code quality, clean architecture, and shipping things that actually work.
 
@@ -54,6 +54,16 @@ Currently at **NextZen Minds Pvt. Ltd**, leading frontend development for a heal
 
 ---
 
+## 🎨 Dynamic Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/code-anant/code-anant/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/code-anant/code-anant/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/code-anant/code-anant/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -79,12 +89,4 @@ Currently at **NextZen Minds Pvt. Ltd**, leading frontend development for a heal
 
 ---
 
-## 🎨 Dynamic Contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/code-anant/code-anant/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/code-anant/code-anant/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/code-anant/code-anant/output/github-contribution-grid-snake.svg">
-</picture>
-
----
