@@ -12,7 +12,7 @@
   <a href="mailto:anantaay150@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/AnantCode101">
+  <a href="https://github.com/code-anant/code-anant">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -21,7 +21,7 @@
 
 ## 🚀 About Me
 
-I'm a **Frontend Developer with 4+ years of experience** building production-grade web applications. I specialize in **React**, **TypeScript**, and **micro-frontend architecture** — with a track record of cutting load times by 30–40% through performance optimization.
+I'm a **Frontend Developer with 3+ years of experience** building production-grade web applications. I specialize in **React**, **TypeScript**, and **micro-frontend architecture** — with a track record of cutting load times by 30–40% through performance optimization.
 
 Currently at **NextZen Minds Pvt. Ltd**, leading frontend development for a health-tech platform used in real production environments. I care deeply about code quality, clean architecture, and shipping things that actually work.
 
@@ -54,39 +54,37 @@ Currently at **NextZen Minds Pvt. Ltd**, leading frontend development for a heal
 
 ---
 
-## 💼 Work Experience
-
-### Frontend Developer — NextZen Minds Pvt. Ltd *(Jan 2025 – Present)*
-- Building scalable apps with **React + TypeScript** in a micro-frontend setup
-- Reduced load times by **30–40%** via lazy loading, code splitting & bundle optimization
-- Leading sprint planning, stand-ups, and code reviews
-- Mentoring junior devs on React best practices & REST API integration
-
-### Junior Frontend Developer — CBNITS Pvt. Ltd *(Mar 2022 – Dec 2024)*
-- Built and maintained responsive React apps across multiple client projects
-- Integrated REST APIs for frontend-backend communication
-- Improved UI performance and resolved critical production bugs
-- Delivered features on schedule in Agile cross-functional teams
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnantCode101&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://komarev.com/ghpvc/?username=AnantCode101&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnantCode101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnantCode101&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
----
-
-## 🎓 Education
-
-- **MCA** — Narula Institute of Technology *(2022)*
-- **BCA** — The Calcutta Anglo Gujarati College *(2020)*
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnantCode101&theme=tokyonight&hide_border=true" width="55%" />
+</p>
 
 ---
+
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <i>Open to Frontend / React roles at product-based companies and MNCs. Let's connect.</i><br/>
-  <a href="mailto:anantaay150@gmail.com">anantaay150@gmail.com</a> · <a href="https://linkedin.com/in/anantayadav7/">LinkedIn</a>
+  <img src="https://github-profile-trophy.vercel.app/?username=AnantCode101&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
+
+---
+
+## 🎨 Dynamic Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnantCode101/AnantCode101/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnantCode101/AnantCode101/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AnantCode101/AnantCode101/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
