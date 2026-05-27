@@ -69,12 +69,10 @@ Currently at **NextZen Minds Pvt. Ltd**, leading frontend development for a heal
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=code-anant&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=code-anant&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-anant&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats-eight-gamma-47.vercel.app/api?username=code-anant&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats-eight-gamma-47.vercel.app/api/top-langs/?username=code-anant&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-anant&theme=tokyonight&hide_border=true" width="55%" />
 </p>
@@ -84,7 +82,7 @@ Currently at **NextZen Minds Pvt. Ltd**, leading frontend development for a heal
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=code-anant&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-trophies.vercel.app/?username=code-anant&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
