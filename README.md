@@ -50,7 +50,7 @@ Currently at **NextZen Minds Pvt. Ltd**, leading frontend development for a heal
 
 **Core Concepts**
 
-`Micro-Frontend Architecture` · `REST API Integration` · `Performance Optimization` · `Responsive Design` · `Cross-browser Compatibility` · `Agile/Scrum`
+`Micro-Frontend Architecture` · `REST API Integration` · `Performance Optimization` · `Responsive Design` · `Cross-browser Compatibility` · `Agile/Scrum` · `Flux Architecture` 
 
 ---
 
