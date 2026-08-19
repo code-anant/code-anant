@@ -21,9 +21,9 @@
 
 ## 🚀 About Me
 
-I'm a **Frontend Developer with 4+ years of experience** building production-grade web applications. I specialize in **React**, **TypeScript**, and **micro-frontend architecture** — with a track record of cutting load times by 30–40% through performance optimization.
+I'm a **Frontend Developer** dedicated to building production-grade, scalable web applications. I specialize in **React**, **TypeScript**, and **micro-frontend architecture**, with a strong focus on web performance optimization and creating seamless user experiences. 
 
-Currently at **NextZen Minds Pvt. Ltd**, leading frontend development for a health-tech platform used in real production environments. I care deeply about code quality, clean architecture, and shipping things that actually work.
+Currently, I lead frontend development for robust platforms, including health-tech and security applications used in real production environments. I care deeply about code quality, clean architecture, REST API integrations, and shipping features that genuinely work.
 
 ---
 
