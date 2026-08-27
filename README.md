@@ -23,7 +23,7 @@
 
 I'm a **Frontend Developer** dedicated to building production-grade, scalable web applications. I specialize in **React**, **TypeScript**, and **micro-frontend architecture**, with a strong focus on web performance optimization and creating seamless user experiences. 
 
-Currently, I lead frontend development for robust platforms, including health-tech and security applications used in real production environments. I care deeply about code quality, clean architecture, REST API integrations, and shipping features that genuinely work.
+I have lead frontend development for robust platforms, including health-tech and security applications used in real production environments. I care deeply about code quality, clean architecture, REST API integrations, and shipping features that genuinely work.
 
 ---
 
